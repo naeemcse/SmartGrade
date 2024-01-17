@@ -1,0 +1,219 @@
+{
+    "ClassOne": [
+      {
+        "id": 1,
+        "name": "John Resig",
+        "image": "https://randomuser.me/api/portraits/men/1.jpg",
+        "percentage": 99,
+        "score": "S"
+      },
+      {
+        "id": 2,
+        "name": "Brendan Eich",
+        "image": "https://randomuser.me/api/portraits/men/2.jpg",
+        "percentage": 98,
+        "score": "A+"
+      },
+      {
+        "id": 3,
+        "name": "Linus Torvalds",
+        "image": "https://randomuser.me/api/portraits/men/3.jpg",
+        "percentage": 95,
+        "score": "A"
+      },
+      {
+        "id": 4,
+        "name": "Guido van Rossum",
+        "image": "https://randomuser.me/api/portraits/men/4.jpg",
+        "percentage": 92,
+        "score": "A-"
+      },
+      {
+        "id": 5,
+        "name": "Jeff Dean",
+        "image": "https://randomuser.me/api/portraits/men/5.jpg",
+        "percentage": 90,
+        "score": "B+"
+      },
+      {
+        "id": 6,
+        "name": "Yukihiro Matsumoto",
+        "image": "https://randomuser.me/api/portraits/men/6.jpg",
+        "percentage": 88,
+        "score": "B"
+      },
+      {
+        "id": 7,
+        "name": "Dan Abramov",
+        "image": "https://randomuser.me/api/portraits/men/7.jpg",
+        "percentage": 85,
+        "score": "B-"
+      },
+      {
+        "id": 8,
+        "name": "Addy Osmani",
+        "image": "https://randomuser.me/api/portraits/men/8.jpg",
+        "percentage": 82,
+        "score": "C+"
+      },
+      {
+        "id": 9,
+        "name": "Chris Coyier",
+        "image": "https://randomuser.me/api/portraits/men/9.jpg",
+        "percentage": 80,
+        "score": "C"
+      },
+      {
+        "id": 10,
+        "name": "Sara Soueidan",
+        "image": "https://randomuser.me/api/portraits/women/1.jpg",
+        "percentage": 78,
+        "score": "C-"
+      }
+    ],
+    "ClassTwo": [
+      {
+        "id": 1,
+        "name": "Virat Kohli",
+        "image": "https://randomuser.me/api/portraits/men/10.jpg",
+        "percentage": 95,
+        "score": "A"
+      },
+      {
+        "id": 2,
+        "name": "Kane Williamson",
+        "image": "https://randomuser.me/api/portraits/men/11.jpg",
+        "percentage": 92,
+        "score": "A-"
+      },
+      {
+        "id": 3,
+        "name": "Steve Smith",
+        "image": "https://randomuser.me/api/portraits/men/12.jpg",
+        "percentage": 90,
+        "score": "B+"
+      },
+      {
+        "id": 4,
+        "name": "Joe Root",
+        "image": "https://randomuser.me/api/portraits/men/13.jpg",
+        "percentage": 88,
+        "score": "B"
+      },
+      {
+        "id": 5,
+        "name": "Rohit Sharma",
+        "image": "https://randomuser.me/api/portraits/men/14.jpg",
+        "percentage": 85,
+        "score": "B-"
+      },
+      {
+        "id": 6,
+        "name": "Babar Azam",
+        "image": "https://randomuser.me/api/portraits/men/15.jpg",
+        "percentage": 82,
+        "score": "C+"
+      },
+      {
+        "id": 7,
+        "name": "David Warner",
+        "image": "https://randomuser.me/api/portraits/men/16.jpg",
+        "percentage": 80,
+        "score": "C"
+      },
+      {
+        "id": 8,
+        "name": "Kagiso Rabada",
+        "image": "https://randomuser.me/api/portraits/men/17.jpg",
+        "percentage": 78,
+        "score": "C-"
+      },
+      {
+        "id": 9,
+        "name": "Jasprit Bumrah",
+        "image": "https://randomuser.me/api/portraits/men/18.jpg",
+        "percentage": 75,
+        "score": "D+"
+      },
+      {
+        "id": 10,
+        "name": "Mitchell Starc",
+        "image": "https://randomuser.me/api/portraits/men/19.jpg",
+        "percentage": 72,
+        "score": "D"
+      }
+    ],
+    "ClassThree": [
+      {
+        "id": 1,
+        "name": "Lionel Messi",
+        "image": "https://randomuser.me/api/portraits/men/20.jpg",
+        "percentage": 99,
+        "score": "S"
+      },
+      {
+        "id": 2,
+        "name": "Cristiano Ronaldo",
+        "image": "https://randomuser.me/api/portraits/men/21.jpg",
+        "percentage": 98,
+        "score": "A+"
+      },
+      {
+        "id": 3,
+        "name": "Neymar Jr.",
+        "image": "https://randomuser.me/api/portraits/men/22.jpg",
+        "percentage": 95,
+        "score": "A"
+      },
+      {
+        "id": 4,
+        "name": "Robert Lewandowski",
+        "image": "https://randomuser.me/api/portraits/men/23.jpg",
+        "percentage": 92,
+        "score": "A-"
+      },
+      {
+        "id": 5,
+        "name": "Mohamed Salah",
+        "image": "https://randomuser.me/api/portraits/men/24.jpg",
+        "percentage": 90,
+        "score": "B+"
+      },
+      {
+        "id": 6,
+        "name": "Kylian Mbappe",
+        "image": "https://randomuser.me/api/portraits/men/25.jpg",
+        "percentage": 88,
+        "score": "B"
+      },
+      {
+        "id": 7,
+        "name": "Sadio Mane",
+        "image": "https://randomuser.me/api/portraits/men/26.jpg",
+        "percentage": 85,
+        "score": "B-"
+      },
+      {
+        "id": 8,
+        "name": "Harry Kane",
+        "image": "https://randomuser.me/api/portraits/men/27.jpg",
+        "percentage": 82,
+        "score": "C+"
+      },
+      {
+        "id": 9,
+        "name": "Kevin De Bruyne",
+        "image": "https://randomuser.me/api/portraits/men/28.jpg",
+        "percentage": 80,
+        "score": "C"
+      },
+      {
+        "id": 10,
+        "name": "Virgil van Dijk",
+        "image": "https://randomuser.me/api/portraits/men/29.jpg",
+        "percentage": 78,
+        "score": "C-"
+      }
+    ]
+  }
+  
